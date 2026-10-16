@@ -4,6 +4,8 @@
 
 A free, open-source Windows app (English and Arabic) that prepares your videos so TikTok keeps their **smoothness (60/120 fps)**, **sharpness** and **colours**. Some people sell this "60fps / 120fps TikTok method" for money. Here it is free, with the full source code, so anyone can use it and learn how it works.
 
+**Made by ABUSHADAD | ابو شداد**  ·  TikTok: [@TMO_](https://www.tiktok.com/@tmo_)  ·  Discord: `7_UB`
+
 > Unofficial project. Not affiliated with, endorsed by or connected to TikTok or ByteDance.
 
 [English](#english) · [العربية](#العربية)
@@ -128,8 +130,18 @@ Issues and pull requests are welcome, whether that's bug reports, TikTok changes
 - [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) by nihui (MIT), with RIFE models by hzwer.
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) ncnn-vulkan by Xintao Wang (BSD-3-Clause).
 
+## Author / صاحب المشروع
+
+**ABUSHADAD | ابو شداد**
+
+- TikTok: [@TMO_](https://www.tiktok.com/@tmo_)
+- Discord: `7_UB`
+- GitHub: [@7-u8](https://github.com/7-u8)
+
+If you share or modify this project, please keep this credit. / إذا نشرت المشروع أو عدّلت عليه، خلّ الحقوق موجودة.
+
 ## License / الرخصة
 
-[GPL-3.0](LICENSE). You're free to use, study, change and share this project. If you share a modified version, it has to stay open source under the same licence, so nobody can take it closed and sell it.
+Copyright © 2026 ABUSHADAD (ابو شداد). Licensed under [GPL-3.0](LICENSE). You're free to use, study, change and share this project. If you share a modified version, it has to stay open source under the same licence, so nobody can take it closed and sell it.
 
 حر للاستخدام والتعديل والمشاركة، وأي نسخة معدّلة تنتشر لازم تبقى مفتوحة المصدر بنفس الرخصة. يعني ما أحد يقدر يقفلها ويبيعها.
