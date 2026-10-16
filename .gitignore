@@ -1,0 +1,25 @@
+# Bundled third-party tools (downloaded separately, shipped in the Release installer)
+/ffmpeg/
+/rife/
+/esrgan/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+*.spec
+/Release/
+
+# Media and local files
+*.mp4
+*.mov
+*.mkv
+*.png.tmp
+*.tmp
+settings.json
+.claude/
