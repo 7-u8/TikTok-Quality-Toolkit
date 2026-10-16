@@ -4,7 +4,7 @@
 
 A free, open-source Windows app (English and Arabic) that prepares your videos so TikTok keeps their **smoothness (60/120 fps)**, **sharpness** and **colours**. Some people sell this "60fps / 120fps TikTok method" for money. Here it is free, with the full source code, so anyone can use it and learn how it works.
 
-**Made by ABUSHADAD | ابو شداد**  ·  TikTok: [@TMO_](https://www.tiktok.com/@tmo_)  ·  Discord: `7_UB`
+**Made by ABUSHADAD | ابو شداد**  ·  TikTok: [@_TMO](https://www.tiktok.com/@_tmo)  ·  Discord: `7_UB`
 
 > Unofficial project. Not affiliated with, endorsed by or connected to TikTok or ByteDance.
 
@@ -134,7 +134,7 @@ Issues and pull requests are welcome, whether that's bug reports, TikTok changes
 
 **ABUSHADAD | ابو شداد**
 
-- TikTok: [@TMO_](https://www.tiktok.com/@tmo_)
+- TikTok: [@_TMO](https://www.tiktok.com/@_tmo)
 - Discord: `7_UB`
 - GitHub: [@7-u8](https://github.com/7-u8)
 
